@@ -3,5 +3,5 @@ from . import views
 
 urlpatterns = [
     path('getFacturen/', views.GetFacturen.as_view()),
-    path("addFactuur/", views.AddFactuur.as_view()),
+    path('upload/', views.UploadImage.as_view())
 ]

@@ -2,7 +2,7 @@
 
 AI-boekhoud assistent is een applicatie die zelfstandige ondernemers helpt om hun administratie te automatiseren. Je kunt eenvoudig facturen uploaden, waarna de AI automatisch leveranciers, bedragen en btw-waarden herkent en toont in een overzichtelijk dashboard.
 
-Repository: [https://github.com/DDE-64-bit/AI-boekhouder](https://github.com/DDE-64-bit/AI-boekhouder)
+![user interface](.github/images/dashboard.png)
 
 ## Functionaliteiten
 

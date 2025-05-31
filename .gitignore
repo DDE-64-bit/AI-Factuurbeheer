@@ -1,6 +1,9 @@
 # -----general-----
 
 # virtual enviorment
+env
+
+# enviorment variables
 .env
 
 # extra
@@ -13,6 +16,9 @@
 # database
 db.sqlite3
 migrations
+
+# data
+media
 
 # cache
 __pycache__

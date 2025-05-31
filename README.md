@@ -1,6 +1,6 @@
-# AI-boekhoud assistent
+# AIFactuurbeheer
 
-AI-boekhoud assistent is een applicatie die zelfstandige ondernemers helpt om hun administratie te automatiseren. Je kunt eenvoudig facturen uploaden, waarna de AI automatisch leveranciers, bedragen en btw-waarden herkent en toont in een overzichtelijk dashboard.
+AIFactuurbeheer is een applicatie die zelfstandige ondernemers helpt om hun administratie te automatiseren. Je kunt eenvoudig facturen uploaden, waarna de AI automatisch leveranciers, bedragen en btw-waarden herkent en toont in een overzichtelijk dashboard.
 
 ![user interface](.github/images/dashboard.png)
 
@@ -19,8 +19,8 @@ AI-boekhoud assistent is een applicatie die zelfstandige ondernemers helpt om hu
 ### 1. Repository clonen
 
 ```bash
-git clone https://github.com/DDE-64-bit/AI-boekhouder.git
-cd AI-boekhouder
+git clone https://github.com/DDE-64-bit/AI-Factuurbeheer.git
+cd AI-Factuurbeheer
 ```
 
 ---
@@ -84,7 +84,7 @@ Frontend draait op: `http://localhost:5173/`
 ## Structuur
 
 ```
-AI-boekhouder/
+AI-Factuurbeheer/
 ├── backend/              # Django backend
 ├── frontend/             # Vite + React frontend
 ├── .env                  # Bevat alleen OPENAI_API_KEY

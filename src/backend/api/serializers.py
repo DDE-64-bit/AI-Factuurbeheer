@@ -108,3 +108,4 @@ class FactuurImageSerializer(serializers.ModelSerializer):
         #     'leverancier': 'Coolblue',
         # }
         return parsedData
+    

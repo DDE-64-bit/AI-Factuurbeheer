@@ -77,8 +77,6 @@ npm run dev
 
 Frontend draait op: `http://localhost:5173/`
 
-> Let op: de frontend communiceert met de backend en gebruikt **geen directe toegang tot de OpenAI API** of de `.env` variabele.
-
 ---
 
 ## Structuur
